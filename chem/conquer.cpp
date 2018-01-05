@@ -2,7 +2,6 @@
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
-#define min(a, b) ((a) > (b) ? (b) : (b))
 int **E;
 int **cost;
 using namespace std;
